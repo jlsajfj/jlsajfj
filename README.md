@@ -4,7 +4,9 @@ I'm joseph and this is my Github profile.
 
 I do some [CTFs](https://ctftime.org/team/135134), I love doing [one liners in python](https://github.com/jlsajfj/one-lyne), and I'm learning to make a [new app](https://github.com/jlsajfj/ellie-and-edward).
 
-I hope you enjoy your stay
+[Check out my portfolio!](https://github.com/jlsajfj/Portfolio)
+
+I hope you enjoy your stay!
 <!--
 **jlsajfj/jlsajfj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
