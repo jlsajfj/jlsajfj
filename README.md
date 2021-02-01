@@ -1,8 +1,8 @@
 ### Welcome
 
-I'm joseph and this is my Github profile.
+I'm Joseph and this is my Github profile.
 
-I do some [CTFs](https://ctftime.org/team/135134), I love doing [one liners in python](https://github.com/jlsajfj/one-lyne), and I'm learning to make a [new app](https://github.com/jlsajfj/ellie-and-edward).
+I do some [CTFs](https://ctftime.org/team/138100), I love doing [one liners in python](https://github.com/jlsajfj/one-lyne), and I'm learning to make a [web app](https://github.com/jlsajfj/ellie-and-edward).
 
 [Check out my portfolio!](https://github.com/jlsajfj/Portfolio)
 
