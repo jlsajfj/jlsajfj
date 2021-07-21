@@ -7,6 +7,8 @@ I do some [CTFs](https://ctftime.org/team/138100), I love doing [one liners in p
 <!--[Check out my portfolio!](https://github.com/jlsajfj/Portfolio)-->
 
 I hope you enjoy your stay!
+
+*I'm on a bit of a coding hiatus for a bit, while I figure out what I want to do in life.*
 <!--
 **jlsajfj/jlsajfj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
